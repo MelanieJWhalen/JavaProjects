@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Program Files/ArcGIS/ArcSDE/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/ArcGIS/ArcSDE/lib/icu4j_3_2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/ArcGIS/ArcSDE/lib/jpe_sdk.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/ArcGIS/ArcSDE/lib/jsde_sdk.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
